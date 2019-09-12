@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="email">E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="acessar">ACESSAR</string>
+    <string name="salvar">SALVAR</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="visualizar_usuarios">Visualizar Usuários</string>
+</resources>
